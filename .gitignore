@@ -39,3 +39,6 @@ packages/cli/src/modules/my-feature
 packages/testing/**/.cursor/rules/
 .venv
 .ruff_cache
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
